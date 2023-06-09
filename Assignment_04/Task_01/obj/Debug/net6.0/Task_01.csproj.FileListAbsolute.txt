@@ -1,0 +1,15 @@
+C:\Users\DKapanadze\Desktop\C#\Assignment_04\Assignment_04\Task_01\bin\Debug\net6.0\Task_01.exe
+C:\Users\DKapanadze\Desktop\C#\Assignment_04\Assignment_04\Task_01\bin\Debug\net6.0\Task_01.deps.json
+C:\Users\DKapanadze\Desktop\C#\Assignment_04\Assignment_04\Task_01\bin\Debug\net6.0\Task_01.runtimeconfig.json
+C:\Users\DKapanadze\Desktop\C#\Assignment_04\Assignment_04\Task_01\bin\Debug\net6.0\Task_01.dll
+C:\Users\DKapanadze\Desktop\C#\Assignment_04\Assignment_04\Task_01\bin\Debug\net6.0\Task_01.pdb
+C:\Users\DKapanadze\Desktop\C#\Assignment_04\Assignment_04\Task_01\obj\Debug\net6.0\Task_01.csproj.AssemblyReference.cache
+C:\Users\DKapanadze\Desktop\C#\Assignment_04\Assignment_04\Task_01\obj\Debug\net6.0\Task_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKapanadze\Desktop\C#\Assignment_04\Assignment_04\Task_01\obj\Debug\net6.0\Task_01.AssemblyInfoInputs.cache
+C:\Users\DKapanadze\Desktop\C#\Assignment_04\Assignment_04\Task_01\obj\Debug\net6.0\Task_01.AssemblyInfo.cs
+C:\Users\DKapanadze\Desktop\C#\Assignment_04\Assignment_04\Task_01\obj\Debug\net6.0\Task_01.csproj.CoreCompileInputs.cache
+C:\Users\DKapanadze\Desktop\C#\Assignment_04\Assignment_04\Task_01\obj\Debug\net6.0\Task_01.dll
+C:\Users\DKapanadze\Desktop\C#\Assignment_04\Assignment_04\Task_01\obj\Debug\net6.0\refint\Task_01.dll
+C:\Users\DKapanadze\Desktop\C#\Assignment_04\Assignment_04\Task_01\obj\Debug\net6.0\Task_01.pdb
+C:\Users\DKapanadze\Desktop\C#\Assignment_04\Assignment_04\Task_01\obj\Debug\net6.0\Task_01.genruntimeconfig.cache
+C:\Users\DKapanadze\Desktop\C#\Assignment_04\Assignment_04\Task_01\obj\Debug\net6.0\ref\Task_01.dll
