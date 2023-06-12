@@ -12,5 +12,6 @@ void SumArrayNumber(int[] numbers, int index)
         int a = myNumber[i] - '0';
         sum += a;
     }
+    Console.WriteLine();
     Console.WriteLine(sum);
 }
