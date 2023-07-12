@@ -1,5 +1,4 @@
 ﻿using Task_01;
-
 try
 {
     Book book = new Book(1, "Interesting Book", "Author");
